@@ -22,4 +22,4 @@ I love learning about pretty much everything, from technology to how the world w
 ![Bruno](https://img.shields.io/badge/Bruno-7F77DD?style=flat)
 ![Embeddings](https://img.shields.io/badge/Embeddings-D4537E?style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mandyss10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mandyss10&theme=dark)](https://git.io/streak-stats)
