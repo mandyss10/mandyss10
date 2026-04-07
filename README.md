@@ -7,7 +7,7 @@ I love learning about pretty much everything, from technology to how the world w
 - 🌱 I'm currently learning ... everything I can get my hands on
 - 👯 I'm looking to collaborate on interesting projects of any kind
 - 💬 Ask me about Python, ASR, Docker, AI — or really, anything
-- 📫 How to reach me: your@email.com
+- 📫 How to reach me: ivanmandayo10@gmail.com
 - ⚡ Fun fact: I'm based in one of the rainiest cities in Spain and I still love it
 
 ---
